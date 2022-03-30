@@ -10,3 +10,4 @@ Werkzeug==2.0.3
 streamlit
 pickle5
 pyngrok==5.1.0
+scikit-image==0.18.3
